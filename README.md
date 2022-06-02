@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corumgold
+- 👋 Hi, I’m Cory
 - 👀 I’m interested in rock climbing and hanging out with my wife and dogs
 - 🌱 I’m currently learning the ins and outs of JavaScript!
 - 💞️ I’m looking to collaborate on anything someone needs help with!
