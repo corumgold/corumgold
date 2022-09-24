@@ -18,7 +18,6 @@ If you would like to learn more about me or contact me, I can be reached at:
 - 💻 Portfolio: www.corygold.dev
 - 📩 Email: goldcorum@gmail.com
 - 📲 Phone: 423-637-1278 
-- 🦑 GitHub: @corumgold
 
 <!---
 corumgold/corumgold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
